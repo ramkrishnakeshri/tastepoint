@@ -1,0 +1,23 @@
+.navbar {
+  min-height: 80px;
+  padding: 0rem 1.5rem;
+}
+
+
+.navbar-brand {
+  height: 80px;
+  line-height: 80px;
+  font-size: 2rem;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fba200;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: #fba200;
+}
+
+a{
+	font-size: larger;
+}
