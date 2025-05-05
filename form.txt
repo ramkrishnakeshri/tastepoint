@@ -1,0 +1,28 @@
+
+.form_code{
+	text-align:center;
+	padding: .5rem;
+}
+
+.form_code .post_code{
+	display: block;
+	width: 100%;
+	border-radius: 2rem;
+	padding: .6rem;
+	border: none;
+	outline: none;
+}	
+
+.form_code button {
+	width: 200px;
+	text-align:center;
+	background: linear-gradient(57deg, #00c6a7, #1e4d92);
+    color: white;
+	padding:.6rem;
+	margin:5%;
+	border: none;
+	border-radius:2rem;
+}
+.form_code button:hover{
+	background: linear-gradient(57deg, #1e4d92 , #00c6a7);
+}
